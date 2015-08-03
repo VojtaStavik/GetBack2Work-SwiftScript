@@ -1,4 +1,4 @@
-#!/usr/bin/env xcrun -sdk macosx swift -F /Users/vojtastavik/Documents/GB2W/Rome
+#!/usr/bin/env xcrun -sdk macosx swift -F Rome
 
 import Foundation
 import Alamofire
